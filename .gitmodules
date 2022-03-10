@@ -1,0 +1,4 @@
+[submodule "installed-base"]
+	path = installed-base
+	url = git@github.com:much-GmbH/installed-base.git
+	branch = dev-15
